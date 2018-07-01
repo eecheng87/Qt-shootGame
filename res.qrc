@@ -1,0 +1,36 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource prefix="/">
+		<file>res/hulkbuster.png</file>
+		<file>res/iron_fly.png</file>
+		<file>res/normalshoot.png</file>
+		<file>res/jet.png</file>
+		<file>res/sky.jpg</file>
+		<file>res/thanos.png</file>
+		
+		<file>res/shoot_effect.png</file>
+		<file>res/iron_beam.png</file>
+		<file>res/missile.png</file>
+		<file>res/war-machine.png</file>
+		<file>res/war-machine2.png</file>
+		<file>res/war-machine3.png</file>
+		<file>res/iron_bullet.png</file>
+		<file>res/jet_bullet.png</file>
+		<file>res/spaceship.png</file>
+		<file>res/Iron2.png</file>
+		<file>res/Iron3.png</file>
+		<file>res/Iron4.png</file>
+		<file>res/explosion1.png</file>
+		<file>res/explosion2.png</file>
+		<file>res/HP.png</file>
+		<file>res/7.png</file>
+		<file>res/commit.png</file>
+		<file>res/back.jpg</file>
+
+		<file>res/thanos_son1.png</file>
+		<file>res/thanos_son2.png</file>
+		<file>res/thanos_son3.png</file>
+		<file>res/ROCK.png</file>
+		
+	</qresource>
+</RCC>
